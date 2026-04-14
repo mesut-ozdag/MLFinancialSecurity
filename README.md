@@ -5,6 +5,9 @@ For this lecture, we use SmartBugs-Curated, which is public on GitHub. Itwas cre
 https://github.com/smartbugs/smartbugs-curated
 
 SmartBugs-Curated:
+
 • multi-class classification of vulnerability type
+
 • feature extraction from Solidity code
+
 • Logistic Regression vs XGBoost comparison
